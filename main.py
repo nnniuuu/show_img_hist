@@ -9,7 +9,7 @@ img_url = 'https://upload.wikimedia.org/wikipedia/commons/0/05/Deported_from_Cri
 
 im = imread(img_url)
 
-st.image(im, caption='image for kadai',
+st.image(im, caption='image for kadai14',
          use_column_width=True)
 
 
