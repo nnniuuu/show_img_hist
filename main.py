@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://upload.wikimedia.org/wikipedia/commons/b/bd/WLE_-_2020_-_%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%8F%D0%B9%D0%BB%D0%B0.jpg'
+img_url = 'https://upload.wikimedia.org/wikipedia/commons/0/05/Deported_from_Crimea.jpg'
 
 im = imread(img_url)
 
